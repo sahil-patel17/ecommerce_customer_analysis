@@ -212,6 +212,40 @@ For example:
 This suggests that these numerical variables do not have strong linear relationships in this dataset.
 
 ---
+## 📊 Key Visualizations
+
+### Customer Demographics
+
+![Customer Gender Distribution](visualizations/gender_distribution.png)
+
+The customer base contains 2,652 male customers and 1,248 female customers.
+
+---
+
+### Sales by Product Category
+
+![Sales by Category](visualizations/category_sales.png)
+
+Clothing generated the highest total sales at approximately $104K,
+followed by Accessories at approximately $74K.
+
+---
+
+### Top 10 Products by Sales
+
+![Top Products by Sales](visualizations/top_10_products_sales.png)
+
+The top-selling products have relatively similar total sales,
+with Blouse generating the highest total sales among the top 10 products.
+
+---
+
+### Seasonal Sales
+
+![Sales by Season](visualizations/season_sales.png)
+
+Fall generated the highest total sales at approximately $60K,
+while Summer generated the lowest at approximately $56K.
 
 ## Tools & Technologies
 
